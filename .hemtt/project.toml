@@ -1,0 +1,10 @@
+name = "Weekly Open Games Mods"
+author = "WOG Team"
+prefix = "wog"
+mainprefix = "w"
+
+[version]
+major = 1
+minor = 54
+patch = 4
+build = 0
